@@ -1,6 +1,7 @@
 # superstore
 
 A new Flutter project.
+![Super Mall mockup](https://user-images.githubusercontent.com/108319392/190513861-6a21556a-40e9-453a-a503-5ecf7d5f1e8e.jpg)
 
 ## Getting Started
 
