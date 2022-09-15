@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "430532730446",
+    "project_id": "supermall-f721a",
+    "storage_bucket": "supermall-f721a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:430532730446:android:33ab27f74182c62d336d1f",
+        "android_client_info": {
+          "package_name": "com.example.superstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "430532730446-cdfo7acrd9t1k6ug49ivu4vpf59lkmgk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPST0Wd6mZYfK3yDfTsAM_D9IBGU1LwEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "430532730446-cdfo7acrd9t1k6ug49ivu4vpf59lkmgk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
